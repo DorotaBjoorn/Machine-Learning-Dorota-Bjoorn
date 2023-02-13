@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 black = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+ipykernel = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
