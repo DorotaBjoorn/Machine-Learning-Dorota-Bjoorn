@@ -7,10 +7,11 @@ name = "pypi"
 black = "*"
 numpy = "*"
 pandas = "*"
-matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
 scikit-learn = "*"
+tensorflow = "*"
+matplotlib = "*"
 
 [dev-packages]
 
