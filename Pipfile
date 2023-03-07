@@ -12,6 +12,9 @@ ipykernel = "*"
 scikit-learn = "*"
 tensorflow = "*"
 matplotlib = "*"
+nltk = "*"
+levenshtein = "*"
+fuzzywuzzy = "*"
 
 [dev-packages]
 
