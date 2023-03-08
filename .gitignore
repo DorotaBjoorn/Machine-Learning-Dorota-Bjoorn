@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # Ignored files
-.DS_Store
 *.csv
