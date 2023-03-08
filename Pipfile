@@ -15,6 +15,7 @@ matplotlib = "*"
 nltk = "*"
 levenshtein = "*"
 fuzzywuzzy = "*"
+scipy = "*"
 
 [dev-packages]
 
