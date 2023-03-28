@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+
 def remove_outliers(df, col):
     """remove outliers according to Tukeys rule"""
     Q25 = df[col].quantile(.25)
